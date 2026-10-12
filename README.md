@@ -1,1 +1,0 @@
-# rosechelmaealmazan.github.io
