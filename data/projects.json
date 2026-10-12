@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "description": "A responsive portfolio website built to showcase my projects and skills.",
+    "technologies": "HTML, CSS, GitHub Pages",
+    "role": "Lead Developer",
+    "link": "https://github.com/rosechelmaelamazan/rosechelmaelamazan.github.io"
+  },
+  {
+    "title": "Student Management System",
+    "description": "A web application project designed to organize student records.",
+    "technologies": "HTML, CSS",
+    "role": "Frontend Developer",
+    "link": "#"
+  },
+  {
+    "title": "Sample Web Application",
+    "description": "An experimental web page exploring modern web concepts.",
+    "technologies": "HTML, JavaScript",
+    "role": "Developer",
+    "link": "#"
+  }
+]
