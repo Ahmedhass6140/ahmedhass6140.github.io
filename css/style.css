@@ -1,9 +1,9 @@
-/* Color Theme Variables */
+/* Purple Theme Variables */
 :root {
-    --primary-color: #2b5876;
-    --secondary-color: #4e4376;
-    --bg-color: #f8f9fa;
-    --text-color: #333333;
+    --primary-color: #6a1b9a;
+    --secondary-color: #8e24aa;
+    --bg-color: #f3e5f5;
+    --text-color: #3b2342;
     --card-bg: #ffffff;
 }
 
@@ -57,7 +57,7 @@ nav a {
 
 /* Hover Effect on Links */
 nav a:hover {
-    color: #ffdd57;
+    color: #ffeb3b;
     text-decoration: underline;
 }
 
